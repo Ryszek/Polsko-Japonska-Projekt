@@ -16,3 +16,4 @@
 * Marcin Sendek
 * Krzysztof "Olundir" Jeżak
 * Wiktor Snochowski (HappyHormone)
+* Michał Berg (Ryszek)
